@@ -1,2 +1,2 @@
 Another readme
-ALX is awesome
+This is a learning day on ALX
